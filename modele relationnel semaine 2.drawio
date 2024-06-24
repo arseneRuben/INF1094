@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-06-12T20:48:08.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="tOorAUbq22yF0lbbhOgI" version="24.5.1" type="device" pages="2">
+<mxfile host="Electron" modified="2024-06-17T16:40:19.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="n0qMaPVHLy3HaalGumzo" version="24.5.1" type="device" pages="2">
   <diagram name="modele entite association" id="nA0Hqg3waOizbvMMHhKN">
     <mxGraphModel dx="1865" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -481,7 +481,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="POx_UZGRWmNEjlNZ7jcb-1" value="applicatication" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="200" width="170" height="150" as="geometry" />
+          <mxGeometry x="560" y="230" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="POx_UZGRWmNEjlNZ7jcb-2" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;#id_candiadat&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;#id_programme&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="POx_UZGRWmNEjlNZ7jcb-1" vertex="1">
           <mxGeometry y="50" width="170" height="100" as="geometry" />
